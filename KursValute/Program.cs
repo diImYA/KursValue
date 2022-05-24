@@ -27,7 +27,7 @@ namespace Currency
                  respon = read.ReadToEnd();
 
                 Rates info = JsonConvert.DeserializeObject<Rates>(respon);
-                Console.WriteLine($"{info.rates.USD}$ = {info.rates.RUB}");
+                Console.WriteLine($"{info.rates.USD}$ = {info.rates.RUB}.");
                 
             }
             response.Close();
@@ -45,8 +45,8 @@ namespace Currency
                  respon = read.ReadToEnd();
 
                 var obj = JsonConvert.DeserializeObject<List<Welcome>>(respon);
-                Console.WriteLine($"{obj[0].Name}: Цена:{obj[0].CurrentPrice}$, Изменения зв 24 часа{obj[0].PriceChange24H}$, Рыночная капитализация{obj[0].MarketCap}");
-                Console.WriteLine($"{obj[1].Name}: Цена:{obj[1].CurrentPrice}$, Изменения зв 24 часа{obj[1].PriceChange24H}$, Рыночная капитализация{obj[1].MarketCap}");
+                Console.WriteLine($"{obj[0].Name}: Цена: {obj[0].CurrentPrice}$, Изменения за 24 часа: {obj[0].PriceChange24H}$, Рыночная капитализация: {obj[0].MarketCap}.");
+                Console.WriteLine($"{obj[1].Name}: Цена: {obj[1].CurrentPrice}$, Изменения за 24 часа: {obj[1].PriceChange24H}$, Рыночная капитализация: {obj[1].MarketCap}.");
                 
             }
             response.Close();
