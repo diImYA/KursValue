@@ -1,0 +1,17 @@
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\bin\Debug\net6.0\KursValute.exe
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\bin\Debug\net6.0\KursValute.deps.json
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\bin\Debug\net6.0\KursValute.runtimeconfig.json
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\bin\Debug\net6.0\KursValute.dll
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\bin\Debug\net6.0\KursValute.pdb
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.csproj.AssemblyReference.cache
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.AssemblyInfoInputs.cache
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.AssemblyInfo.cs
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.csproj.CoreCompileInputs.cache
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.csproj.CopyComplete
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.dll
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\refint\KursValute.dll
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.pdb
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\KursValute.genruntimeconfig.cache
+C:\Users\gurin\Documents\GitHub\KursValue\KursValute\obj\Debug\net6.0\ref\KursValute.dll
